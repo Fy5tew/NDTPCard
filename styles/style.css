@@ -260,4 +260,8 @@
 	.student_name {
 		font-size: 25px;
 	}
+
+	.footer .creator {
+		font-size: 15px;
+	}
 }

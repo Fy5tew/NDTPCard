@@ -245,12 +245,13 @@
 @media (max-width: 426px) {
 	#institute_title {
 		font-size: 25px;
-		height: 60px;
+		height: auto;
 	}
 
 	#group_title {
 		font-size: 23px;
 		height: 30px;
+		padding-bottom: 10px;
 	}
 
 	.teamlead_list_wrap h1, .student_list_wrap h1 {

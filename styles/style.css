@@ -1,8 +1,16 @@
+@font-face {
+	font-family: "NSI";
+	src: url("../fonts/noto-serif-italic.ttf");
+}
+
+
+
+
 * {
 	margin: 0px;
 	padding: 0px;
 
-	font-family: "Monotype Corsiva";
+	font-family: "NSI";
 }
 
 

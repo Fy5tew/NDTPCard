@@ -191,6 +191,17 @@
 }
 
 
+.link {
+}
+
+.link img {
+	height: 29px;
+
+	margin-top: 15px;
+	margin-right: 7.5px;
+	margin-left: 7.5px;
+}
+
 
 
 .footer {

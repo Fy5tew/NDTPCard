@@ -49,7 +49,7 @@ const students = [
         name: "Тарасенко Давид Игоревич",
         photo: "student7.jpg",
         links: [
-        	"https://vk.com/d_15_david_15",
+        	"https://www.vk.com/d_15_david_15",
         ],
 	},
 	{

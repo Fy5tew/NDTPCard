@@ -69,7 +69,9 @@ const students = [
 	{
         name: "Слинка Егор Игоревич",
         photo: "student10.jpg",
-        links: [],
+        links: [
+        	"https://vk.com/id685742225",
+        ],
 	},
 ]
 

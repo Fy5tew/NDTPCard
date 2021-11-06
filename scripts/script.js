@@ -9,47 +9,49 @@ const students = [
         name: "Круглик Максим Сергеевич",
         photo: "student1.jpg",
         links: [
-        	"https://www.instagram.com/kruglik.max",
+        	"https://instagram.com/kruglik.max",
         ],
 	},
 	{
         name: "Радюк Евгений Александрович",
         photo: "student2.jpg",
         links: [
-        	"https://www.instagram.com/_zh_rad_",
+        	"https://instagram.com/_zh_rad_",
         ],
 	},
 	{
         name: "Мацкевич Марк Николаевич",
         photo: "student3.jpg",
-        links: [],
+        links: [
+        	"https://vk.com/m.waphtuos",
+        ],
 	},
 	{
         name: "Янукович Евгений Дмитриевич",
         photo: "student4.jpg",
         links: [
-        	"https://www.vk.com/evyanukovich",
+        	"https://vk.com/evyanukovich",
         ],
 	},
 	{
         name: "Кляшторный Вячеслав Андреевич",
         photo: "student5.jpg",
         links: [
-        	"https://www.instagram.com/shtornyy",
+        	"https://instagram.com/shtornyy",
         ],
 	},
 	{
         name: "Батук Денис Сергеевич",
         photo: "student6.jpg",
         links: [
-        	"https://www.instagram.com/_diu_410_",
+        	"https://instagram.com/_diu_410_",
         ],
 	},
 	{
         name: "Тарасенко Давид Игоревич",
         photo: "student7.jpg",
         links: [
-        	"https://www.vk.com/d_15_david_15",
+        	"https://vk.com/d_15_david_15",
         ],
 	},
 	{
@@ -60,7 +62,9 @@ const students = [
 	{
         name: "Ложечка Артём Александрович",
         photo: "student9.jpg",
-        links: [],
+        links: [
+        	"https://vk.com/janclodvangog",
+        ],
 	},
 	{
         name: "Слинка Егор Игоревич",
